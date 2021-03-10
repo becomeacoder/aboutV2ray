@@ -1,0 +1,11 @@
+Do not use a cdn when appling a cert.
+
+sudo apt-get install nginx
+
+sudo service nginx start
+
+sudo apt-get install letsencrypt
+
+sudo letsencrypt certonly --webroot -w /var/www/html -d example.com
+
+done.
