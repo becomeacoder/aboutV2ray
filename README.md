@@ -1,1 +1,1 @@
-# Things about how to configure v2ray.
+# Things about configure v2ray.
